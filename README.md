@@ -3,7 +3,6 @@
 ![pandas](https://files.realpython.com/media/Python-Pandas-10-Tricks--Features-You-May-Not-Know-Watermark.e58bb5ce9835.jpg)
 Figura 1: ["Python Pandas: Tricks & Features You May Not Know"](https://realpython.com/python-pandas-tricks/)
 
-## Dia 1
 
 0. Instalando conda, jupyter notebook, pandas, etc;
 
@@ -13,28 +12,22 @@ Figura 1: ["Python Pandas: Tricks & Features You May Not Know"](https://realpyth
 
 1. Abrindo arquivos com Pandas
 
+  * Series e DataFrames;
   * CSV;
   * Excel;
   * Python dicionários;
   * Python lista de tuplas;
   * Python lista de dicionários;
-  * Abrindo arquivos `sql`, `parquet`, `pickle`, `html`;
+  * Manipulação básica de `DataFrame`s;
   * Escrevendo CSV, Excel.
-
-## Dia 2
 
 2. Manipulando `DataFrame`s
   
-  * Criando `DataFrame`s;
-  * Manipulando linhas e colunas;
-  * Operações gerais;
-  * Seleções condicionais;
   * Manipulando índices;
+  * Seleções condicionais;
   * Trabalhando com dados faltantes;
   * Agrupando um `DataFrame`;
   * Como juntar diferentes `DataFrame`s.
-
-## Dia 3
 
 3. Manipulando big data com Vaex
 
