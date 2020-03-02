@@ -24,7 +24,7 @@ Figura 1: ["Python Pandas: Tricks & Features You May Not Know"](https://realpyth
 2. Manipulando `DataFrame`s
   
   * Manipulando índices;
-  * Seleções condicionais;
+  * Filtrando `DataFrame`s;
   * Trabalhando com dados faltantes;
   * Agrupando um `DataFrame`;
   * Como juntar diferentes `DataFrame`s.
